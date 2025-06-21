@@ -1,0 +1,7 @@
+{
+  "dataFolder": "MARKDOWN_FILE_FOLDER",
+  "baseUrl": "MEMOS_INSTANCE_BASE_URL",
+  "token": "MEMOS_API_TOKEN",
+  "addTagsByPath":  true,
+  "changeFirstHeadingLevelTo": 3
+}
